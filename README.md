@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Getting Started
+
+You can visit my site at https://lucashouska.github.io/my_website/
+
+# Some React Jargon
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
